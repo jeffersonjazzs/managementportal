@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Management Portal" title="MP" src="mp.svg" width="50px" />
+    <img alt="Management Portal" title="MP" src="img-git_mp.svg" width="50px" />
      Management Portal - Sistema de Gestão de Colaboradores
 
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
