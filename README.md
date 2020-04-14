@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# managementportaltest
-
-test
-=======
 <h1 align="center">
     <img alt="Management Portal" title="MP" src="img-git_mp.svg" width="50px" />
      Management Portal - Sistema de Gestão de Colaboradores
@@ -65,5 +60,3 @@ e\managementportal /MIR`;
 - Faça commit das suas alterações: `git commit -m 'feat: Nova feature'`;
 - Faça push para a sua branch: `git push origin minhafeature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
->>>>>>> branch 'master' of https://github.com/jeffersonjazzs/managementportal.git
